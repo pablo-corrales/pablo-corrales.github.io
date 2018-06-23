@@ -22,6 +22,10 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: 40px;
+  color: #0909BF;
+}
+.h4 {
+  color: #0909BF;
 }
 
 /* Custom page footer */
